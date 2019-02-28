@@ -1,0 +1,4 @@
+report.html
+target/
+*.log
+**/*.jar
