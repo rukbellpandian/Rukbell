@@ -2,3 +2,5 @@ report.html
 target/
 *.log
 **/*.jar
+rock/
+welcome/
