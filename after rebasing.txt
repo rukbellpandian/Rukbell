@@ -1,0 +1,95 @@
+alchemy@DESKTOP-86G264F MINGW64 ~/rukbell/training/respo2 (rebasebranch)
+$ git log
+commit 21ff3fb32f80411d73fc3653dcbddaac4415404d (HEAD -> rebasebranch)
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 10:26:18 2019 +0545
+
+     3. commit in rebase branch again
+
+commit 8e0fbcb5c3ddbc9589434a72c0f2357056dc9111
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 10:24:12 2019 +0545
+
+     1. commit in rebase branch
+
+commit 64ec83fc7a0c305d145c791e697dcf5a955b7e57 (master)
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 10:25:15 2019 +0545
+
+     2. commit in master
+
+commit 63fb8fa800584df47961f3263aaffdff0a59a1fb (tagdemo)
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 09:47:22 2019 +0545
+
+     adding line in tagdemo detachec mode
+
+commit 22db3b4ccc75cc62e9fa66f7b0bd39c01f115d39
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 09:44:18 2019 +0545
+
+     adding in detached mode
+
+commit 0f9273ff28928755ce4410e8ca28e61713476195 (tag: version1.0)
+Merge: 832c052 a6aa72f
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 09:24:45 2019 +0545
+
+     resolving conflict
+
+commit 832c0523c44e7d9454d84c6a69744d185459f197
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 09:21:49 2019 +0545
+
+    adding line
+
+commit a6aa72ff5538f9ff8eed0163a3ff5536c12b82a1 (branch-2)
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 09:20:52 2019 +0545
+
+    adding line
+
+commit a231d4103f5b400920a6558681f62a901715a9c1
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 09:19:08 2019 +0545
+
+    adding line
+
+commit eaa412e9a108880ebe83592791ad4d087679fa2f
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 09:17:48 2019 +0545
+
+     adding info to file
+
+commit 6a4324a8de79111d7ef1069c8fc6632fbeaeeaeb
+Merge: 7ead662 58c3206
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 09:09:47 2019 +0545
+
+    Merge branch 'branch-2'
+
+commit 58c3206d6e1a1aebad52383b451eac6fc44d94f4
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 09:04:51 2019 +0545
+
+    adding a new file
+
+commit 7ead662ea83c94fa21efe115b2b8c59ba8e3df6c (branch-1)
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 09:02:28 2019 +0545
+
+     adding two line from branch-1
+
+commit c6f45cee526843c1443ff75f264855e659d2aabe
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 08:58:53 2019 +0545
+
+    commit to .gitignore
+
+commit 471f04e4f2de9337093ba8c934709d3cf0e1559b
+Author: Rukbell <rockyruku@gmail.com>
+Date:   Thu Feb 28 08:46:56 2019 +0545
+
+     adding a new gitignore file
+
+
